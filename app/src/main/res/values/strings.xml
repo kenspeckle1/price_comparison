@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Preisvergleich</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add Post</string>
+    <string name="search">Search</string>
+
+    <string name="search_message_dialog">Please enter what if you search</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="laden">Laden</string>
+    <string name="artikelname">Artikel</string>
+    <string name="hinzuf_gen">Hinzufügen</string>
+</resources>

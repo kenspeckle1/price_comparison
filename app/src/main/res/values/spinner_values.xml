@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_activity_spinner_array">
+        <item>Artikel Typ</item>
+        <item>Artikel</item>
+        <item>Preis</item>
+    </string-array>
+
+    <string-array name="laden_spinner_array">
+        <item>Aldi Nord</item>
+        <item>Aldi Süd</item>
+        <item>Albert Heijn</item>
+        <item>DM</item>
+        <item>Edeka</item>
+        <item>Hit</item>
+        <item>Kaufland</item>
+        <item>K&amp;K</item>
+        <item>Lidl</item>
+        <item>Metro</item>
+        <item>Netto</item>
+        <item>Penny</item>
+        <item>Real</item>
+        <item>Rewe</item>
+        <item>Rossmann</item>
+    </string-array>
+</resources>
